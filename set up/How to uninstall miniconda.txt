@@ -1,0 +1,12 @@
+https://resbaz.github.io/resbook-installation/python.html#:~:text=Notebook%20section%20below.-,If%20you%20need%20to%20uninstall%20Miniconda%20for%20any%20reason%2C%20open,%3A%20rm%20%2Drf%20~%2Fminiconda%20.
+
+https://www.delftstack.com/howto/python/uninstall-miniconda/
+
+https://stackoverflow.com/questions/29596350/how-to-uninstall-mini-conda-python
+
+https://stackoverflow.com/questions/67923183/miniconda-on-wsl2-ubuntu-20-04-fails-with-condahttperror-http-000-connection
+
+https://github.com/conda/conda/issues/9948#issuecomment-906410470
+
+How to reboot wsl
+https://www.how2shout.com/how-to/how-to-reboot-wsl-windows-subsystem-linux-in-windows-10.html

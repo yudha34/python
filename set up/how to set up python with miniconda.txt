@@ -1,0 +1,12 @@
+Install on wsl
+-just follow step by step on this vid link
+https://www.youtube.com/watch?v=Avx_FYdFBcc
+-link to miniconda site
+https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
+
+https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646
+
+
+
+uninstall on wsl
+sudo apt autoremove python3.8

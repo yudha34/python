@@ -1,0 +1,26 @@
+https://towardsdatascience.com/configuring-jupyter-notebook-in-windows-subsystem-linux-wsl2-c757893e9d69
+(gw dah ada git, gk perlu install lagi)
+https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646
+
+https://docs.conda.io/en/latest/miniconda.html
+https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
+https://conda.io/projects/conda/en/latest/user-guide/install/macos.html#install-macos-silent
+https://askubuntu.com/questions/1231347/anaconda-is-only-available-to-root
+https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
+https://anaconda.org/conda-forge/repo
+https://code.visualstudio.com/docs/datascience/data-science-tutorial
+https://code.visualstudio.com/docs/datascience/jupyter-notebooks#_connect-to-a-remote-jupyter-server
+
+https://stackoverflow.com/questions/40370467/anaconda-not-found-in-zsh
+padahal tinggal source ~/.zshrc doang ;D
+
+https://dev.to/ajeet/set-up-jupyter-notebook-in-vs-code-for-data-science-updated-2020-5b7l 
+
+https://www.odoo.com/app/crm
+
+https://stackoverflow.com/questions/68326110/jupyter-notebook-experience-in-vscode
+https://stackoverflow.com/questions/60025150/jupyter-notebooks-in-vs-code-using-wsl-2-are-not-working
+https://stackoverflow.com/questions/29596350/how-to-uninstall-mini-conda-python
+https://www.youtube.com/watch?v=h1sAzPojKMg
+https://hackernoon.com/6-best-python-based-data-science-frameworks-mt2m3ygv
+https://docs.conda.io/en/latest/miniconda.html
